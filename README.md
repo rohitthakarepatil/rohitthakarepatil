@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rest Assured API automation, Jmeter, Appium**
 
-- 💬 Ask me about **JAVA, Automation, Load testing**
+- 💬 Ask me about **JAVA, Automation, Postman, Load testing**
 
 - 📫 How to reach me **techrohit77@gmail.com**
 
