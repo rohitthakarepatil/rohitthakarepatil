@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitthakarepatil&label=Profile%20views&color=0e75b6&style=flat" alt="rohitthakarepatil" /> </p>
 
-- 🌱 I’m currently learning **Rest Assured API automation, Jmeter, Appium**
+- 🌱 I’m currently learning **Rest Assured API automation, Jmeter, BDD Cucumber, Appium**
 
 - 💬 Ask me about **JAVA, Automation, Postman, Load testing**
 
