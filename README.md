@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA, Automation, Postman, Load testing**
 
-- 📫 How to reach me **techrohit77@gmail.com**
+- 📫 How to reach me **thakarerohitqa@gmail.com**
 
 - ⚡ Fun fact **Did you know? As a software tester, I often get to be the first to find the bugs in new software, making me one of the key guardians of quality before a product is released!**
 
